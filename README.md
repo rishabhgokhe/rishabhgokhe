@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Gokhe 
 <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV5dDlhdW9mOW5jYmRsbjNvcTI2b2RycHI1MTQ1cTdsNTFkZmJlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ov9jDblR6W2d6NfJC/giphy.gif width=40px /></h1>
 
-[![MasterHead]](./images/rishabh_readme_banner.jpg)
+![MasterHead](./images/rishabh_readme_banner.jpg)
 
 ![](https://komarev.com/ghpvc/?username=rishabhgokhe&label=Profile%20views&color=0e75b6&style=flat)
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/rishabhgokhe?)
