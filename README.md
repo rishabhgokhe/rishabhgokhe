@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Gokhe 
 <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV5dDlhdW9mOW5jYmRsbjNvcTI2b2RycHI1MTQ1cTdsNTFkZmJlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ov9jDblR6W2d6NfJC/giphy.gif width=40px /></h1>
 
-[![MasterHead](https://private-user-images.githubusercontent.com/120303705/333902945-79bb9ae4-8649-4225-a8c6-403f95a197aa.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY3NDk3NTMsIm5iZiI6MTcxNjc0OTQ1MywicGF0aCI6Ii8xMjAzMDM3MDUvMzMzOTAyOTQ1LTc5YmI5YWU0LTg2NDktNDIyNS1hOGM2LTQwM2Y5NWExOTdhYS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyNlQxODUwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNzBmNjA5OGVmMGM2Zjg5OGQ1MDYyMjFkZDA5ODY3MGIyMDdjMDJjMTQ1OWU5OTIwNGEyM2I3YjI1ZDk1MmRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GvuXgHWUYHVPKuQveEfboZwSP0-6ECPb4SFIWOgFpFE)](https://rishabhgokhe.github.io/my_profile/)
+[![MasterHead]](./images/rishabh_readme_banner.jpg)
 
 ![](https://komarev.com/ghpvc/?username=rishabhgokhe&label=Profile%20views&color=0e75b6&style=flat)
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/rishabhgokhe?)
