@@ -9,7 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/rishabhgokhe?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Portfolio-Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://rishabhgokhe.github.io/my_profile/)
 
-**Currently Working on : [SkillWave](https://github.com/rishabhgokhe/SkillWave)**
+**Currently Working on : [SkillWave](https://github.com/rishabhgokhe/SkillWave)** Preview App → [https://skillwave20.vercel.app/](https://skillwave20.vercel.app/)
 
 ## ◉ More details about me... <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV0dW1sM3N1eTRvNDI2dmUzcWZyOGhob2tpMWMxYXV0MzA4d3FuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/48MKwjhtxB3NOedbNj/giphy.gif width=40px />
 
