@@ -19,6 +19,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
+![snake svg](https://github.com/rishabhgokhe/rishabhgokhe/blob/output/github-contribution-grid-snake-game-dark.svg)
+
 ## ◉ More details about me... <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV0dW1sM3N1eTRvNDI2dmUzcWZyOGhob2tpMWMxYXV0MzA4d3FuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/48MKwjhtxB3NOedbNj/giphy.gif width=40px />
 
 ```javascript
