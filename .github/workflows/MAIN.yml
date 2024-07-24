@@ -24,8 +24,13 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Clone repo
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3  # Updated to v3 for compatibility
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'  # Specify Node.js version 20
 
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
