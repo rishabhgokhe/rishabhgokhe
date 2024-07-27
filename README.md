@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rishabhgokhe&label=Profile%20views&color=0e75b6&style=flat)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rishabhgokhe?label=Follow)](https://twitter.com/rishabhgokhe)
-![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishabh-gokhe-22168b287/)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-gokhe-22168b287/)
 ![GitHub Followers](https://img.shields.io/github/followers/rishabhgokhe?label=Follow&style=social)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://portfolio-rishabhgokhe.vercel.app/)](https://portfolio-rishabhgokhe.vercel.app/)
 
@@ -20,6 +20,17 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ![snake svg](https://github.com/rishabhgokhe/rishabhgokhe/blob/output/github-contribution-grid-snake-game-dark.svg)
+
+## 🌟 Featured Projects
+
+- **[SkillWave](https://github.com/rishabhgokhe/SkillWave)**
+  - A comprehensive platform for skill development with a live preview [here](https://skillwave20.vercel.app/).
+
+- **[TaskFlow](https://github.com/rishabhgokhe/TaskFlow)**
+  - A sophisticated To-Do List app with a live preview [here](https://taskflow20.vercel.app/).
+
+- **[Animease](https://github.com/rishabhgokhe/animease)**
+  - A Node package for easy animation implementation.
 
 ## ◉ More details about me... <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV0dW1sM3N1eTRvNDI2dmUzcWZyOGhob2tpMWMxYXV0MzA4d3FuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/48MKwjhtxB3NOedbNj/giphy.gif width=40px />
 
@@ -41,6 +52,7 @@ const rishabh = {
         devOps: [],
         databases: ["MongoDB", "PostgreSQL"],
     },
+    favorite: ["TypeScript", "JavaScript", "Java", "Swift"],
     otherInterest = ["UI", "Web Design", "3D Rendering"]
     currentFocus: "Solving one bug at a time",
     funFact: "If debugging is the process of removing bugs, then programming must be the process of putting them in"
@@ -70,6 +82,10 @@ const rishabh = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
+## 🎯 Quote
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhgokhe&layout=compact&theme=radical)
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -82,6 +98,10 @@ const rishabh = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-rishabhgokhe.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhgokhe2004@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rishabh_gokhe)
+
+## About Me
+
+I'm Rishabh Gokhe, a passionate full-stack developer and tech enthusiast. I specialize in web and mobile app development, and I'm always eager to learn new technologies and take on exciting challenges. My expertise includes JavaScript, TypeScript, React, Node.js, and more. When I'm not coding, I enjoy working on 3D modeling and UI design. Feel free to explore my projects and connect with me!
 
 
 ## 🤝 Let's Collaborate!
