@@ -9,6 +9,8 @@
 ![GitHub Followers](https://img.shields.io/github/followers/rishabhgokhe?label=Follow&style=social)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://portfolio-rishabhgokhe.vercel.app/)](https://portfolio-rishabhgokhe.vercel.app/)
 
+> Enhance your animations effortlessly with the npm package I developed, [animease](https://www.npmjs.com/package/animease)
+
 **Currently Working on:** 
 - [SkillWave](https://github.com/rishabhgokhe/SkillWave) - Preview App: [https://skillwave20.vercel.app/](https://skillwave20.vercel.app/)
 - [TaskFlow](https://github.com/rishabhgokhe/TaskFlow) - Preview App: [https://taskflow20.vercel.app/](https://taskflow20.vercel.app/)
@@ -24,13 +26,13 @@
 ## 🌟 Featured Projects
 
 - **[SkillWave](https://github.com/rishabhgokhe/SkillWave)**
-  - A comprehensive platform for skill development with a live preview [here](https://skillwave20.vercel.app/).
+  : A comprehensive platform for skill development with a live preview [here](https://skillwave20.vercel.app/).
 
 - **[TaskFlow](https://github.com/rishabhgokhe/TaskFlow)**
-  - A sophisticated To-Do List app with a live preview [here](https://taskflow20.vercel.app/).
+  : A sophisticated To-Do List app with a live preview [here](https://taskflow20.vercel.app/).
 
 - **[Animease](https://github.com/rishabhgokhe/animease)**
-  - A Node package for easy animation implementation.
+  : A Node package for easy animation implementation. [view package](https://www.npmjs.com/package/animease)
 
 ## ◉ More details about me... <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV0dW1sM3N1eTRvNDI2dmUzcWZyOGhob2tpMWMxYXV0MzA4d3FuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/48MKwjhtxB3NOedbNj/giphy.gif width=40px />
 
@@ -53,7 +55,7 @@ const rishabh = {
         databases: ["MongoDB", "PostgreSQL"],
     },
     favorite: ["TypeScript", "JavaScript", "Java", "Swift"],
-    otherInterest = ["UI", "Web Design", "3D Rendering"]
+    otherInterest: ["UI", "Web Design", "3D Rendering"],
     currentFocus: "Solving one bug at a time",
     funFact: "If debugging is the process of removing bugs, then programming must be the process of putting them in"
 };
