@@ -20,7 +20,7 @@
 - [SkillWave](https://github.com/rishabhgokhe/SkillWave) - Preview App: [https://skillwave20.vercel.app/](https://skillwave20.vercel.app/)
 - [TaskFlow](https://github.com/rishabhgokhe/TaskFlow) - Preview App: [https://taskflow20.vercel.app/](https://taskflow20.vercel.app/)
 
-#### <img src=https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif width=25px /> **Currently learning :** 
+#### **Currently learning :** 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -93,7 +93,9 @@ const rishabh = {
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3J0M2djbm9zcmZiczZzNmhxNDR6cnF3dXF4MDk4eTgxN3N3eG5jciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vx8UvEl6jTEnZX1w1E/giphy.gif" width=40px /> Quote <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hveW8ybTM0MWg1bnM3bWRscnlwYjcwaWk5azVmYmlvdm92dmp1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t4XOMsxdxOvd6dAu91/giphy.gif" width=40px />
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "It's not a bug – it's an undocumented feature." – Anonymous
+
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhgokhe&layout=compact&theme=radical)
 
@@ -103,7 +105,7 @@ const rishabh = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-gokhe-22168b287)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-rishabhgokhe.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhgokhe2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhgokhe20contact@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhgokhe)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rishabhgokhe)
 [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rishabh_gokhe)
