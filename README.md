@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Rishabh Gokhe 
 <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV5dDlhdW9mOW5jYmRsbjNvcTI2b2RycHI1MTQ1cTdsNTFkZmJlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ov9jDblR6W2d6NfJC/giphy.gif width=40px /></h1>
 
@@ -9,16 +10,17 @@
 ![MasterHead](./images/rishabh_readme_banner.jpg)
 
 ![](https://komarev.com/ghpvc/?username=rishabhgokhe&label=Profile%20views&color=0e75b6&style=flat)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rishabhgokhe?label=Follow)](https://twitter.com/rishabhgokhe)
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-gokhe-22168b287/)
+[![LeetCode](https://img.shields.io/badge/-View%20LeetCode%20Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/rishabh_gokhe/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rishabhgokhe?label=Follow)](https://twitter.com/rishabhgokhe)
 ![GitHub Followers](https://img.shields.io/github/followers/rishabhgokhe?label=Follow&style=social)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-46a2f1.svg?&style=flat-square&logo=About.me&logoColor=white&link=https://portfolio-rishabhgokhe.vercel.app/)](https://portfolio-rishabhgokhe.vercel.app/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-46a2f1.svg?&style=flat-square&logo=outline&logoColor=white&link=https://portfolio-rishabhgokhe.vercel.app/)](https://portfolio-rishabhgokhe.vercel.app/)
 
 > Enhance your animations effortlessly with the npm package I developed, [animease](https://www.npmjs.com/package/animease)
 
 **Currently Working on:** 
-- [SkillWave](https://github.com/rishabhgokhe/SkillWave) - Preview App: [https://skillwave20.vercel.app/](https://skillwave20.vercel.app/)
-- [TaskFlow](https://github.com/rishabhgokhe/TaskFlow) - Preview App: [https://taskflow20.vercel.app/](https://taskflow20.vercel.app/)
+- [ByteChat](https://github.com/rishabhgokhe/ByteChat) - Preview App: (Not Available)
+- [Report Generator](https://github.com/rishabhgokhe/Automated-Report-Generation-and-Analysis) - Preview App: (Currently Private)
 
 #### **Currently learning :** 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -31,49 +33,49 @@
 
 ## 🌟 Featured Projects
 
-- **[SkillWave](https://github.com/rishabhgokhe/SkillWave)**
-  : A comprehensive platform for skill development with a live preview [here](https://skillwave20.vercel.app/).
+- **[ByteChat](https://github.com/rishabhgokhe/TaskFlow)**
+  : Real-time chat application built with Next.js & MongoDB for seamless messaging. | Live preview [here](https://byte-chat-20.vercel.app/).
+
+- **[Automated Report Generator](https://github.com/rishabhgokhe/TaskFlow)**
+  : Tool for auto-generating reports using customizable templates.
 
 - **[TaskFlow](https://github.com/rishabhgokhe/TaskFlow)**
-  : A sophisticated To-Do List app for Task Management with a live preview [here](https://taskflow20.vercel.app/).
+  : A sophisticated To-Do List app for Task Management. | Live preview [here](https://taskflow20.vercel.app/).
 
 - **[Animease](https://github.com/rishabhgokhe/animease)**
-  : A Node package for easy animation implementation. [view package](https://www.npmjs.com/package/animease)
+  : A Node package for easy animation implementation. | [View package](https://www.npmjs.com/package/animease)
 
 ##  More details about me... <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV0dW1sM3N1eTRvNDI2dmUzcWZyOGhob2tpMWMxYXV0MzA4d3FuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/48MKwjhtxB3NOedbNj/giphy.gif width=40px />
 
 ```javascript
 const rishabh = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Swift", "Java", "TypeScript"],
-    askMeAbout: ["Web dev", "tech", "iOS dev"],
+    pronouns: "He/Him",
+    code: ["Java", "JavaScript", "TypeScript", "Python", "Swift"],
+    askMeAbout: ["Full-Stack Development", "Android Development", "iOS Development", "Tech"],
     technologies: {
-        frontend: {
-            "React", "Next.js, "JavaScript", "HTML", "CSS", "SASS"
-        }
+        frontend: ["React", "Next.js", "JavaScript", "HTML", "CSS", "SASS"],
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node.js", "Express.js"],
         },
-        mobileApp: {
-            "iOS Development"
-        },
+        mobileApp: ["iOS Development", "React Native", "Firebase"],
         devOps: [],
         databases: ["MongoDB", "PostgreSQL"],
     },
-    favorite: ["TypeScript", "JavaScript", "Java", "Swift"],
-    otherInterest: ["UI", "Web Design", "3D Rendering"],
-    currentFocus: "Solving one bug at a time",
-    funFact: "If debugging is the process of removing bugs, then programming must be the process of putting them in"
+    favorite: ["Java", "JavaScript", "TypeScript", "Swift"],
+    otherInterests: ["Machine Learning & AI", "Cyber Security", "UI/UX Design", "3D Rendering"],
+    currentFocus: "Exploring Blockchain, LLMs, and improving DSA skills",
+    funFact: "If debugging is the process of removing bugs, then programming must be the process of putting them in."
 };
 ```
+
 ## <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejh1dDJiYnphaHIweTV5bGkzaGlvdHI4bDQ2MGh0ZXVxOHo3NG56eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QCQn6e5frpmm7bdTHI/giphy.gif width=40px /> Skills and Technologies
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -104,7 +106,8 @@ const rishabh = {
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxuNTJlaTIwcWp6Mmx4ODl5dXgxbThqNnI5eWh3YmIwMnZhbWp5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7NgYelDPXmzbzxrKsj/giphy.gif" width=40px /> Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-gokhe-22168b287)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-rishabhgokhe.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=outline&logoColor=white)](https://portfolio-rishabhgokhe.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rishabh_gokhe/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhgokhe20contact@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhgokhe)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rishabhgokhe)
