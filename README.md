@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Rishabh Gokhe 
 <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV5dDlhdW9mOW5jYmRsbjNvcTI2b2RycHI1MTQ1cTdsNTFkZmJlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ov9jDblR6W2d6NfJC/giphy.gif width=40px /></h1>
 
@@ -16,34 +15,8 @@
 ![GitHub Followers](https://img.shields.io/github/followers/rishabhgokhe?label=Follow&style=social)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-46a2f1.svg?&style=flat-square&logo=outline&logoColor=white&link=https://portfolio-rishabhgokhe.vercel.app/)](https://portfolio-rishabhgokhe.vercel.app/)
 
-> Enhance your animations effortlessly with the npm package I developed, [animease](https://www.npmjs.com/package/animease)
-
-**Currently Working on:** 
-- [ByteChat](https://github.com/rishabhgokhe/ByteChat) - Preview App: (Not Available)
-- [Report Generator](https://github.com/rishabhgokhe/Automated-Report-Generation-and-Analysis) - Preview App: (Currently Private)
-
-#### **Currently learning :** 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
 ![snake svg](https://github.com/rishabhgokhe/rishabhgokhe/blob/output/github-contribution-grid-snake-game-dark.svg)
 
-## 🌟 Featured Projects
-
-- **[ByteChat](https://github.com/rishabhgokhe/TaskFlow)**
-  : Real-time chat application built with Next.js & MongoDB for seamless messaging. | Live preview [here](https://byte-chat-20.vercel.app/).
-
-- **[Automated Report Generator](https://github.com/rishabhgokhe/TaskFlow)**
-  : Tool for auto-generating reports using customizable templates.
-
-- **[TaskFlow](https://github.com/rishabhgokhe/TaskFlow)**
-  : A sophisticated To-Do List app for Task Management. | Live preview [here](https://taskflow20.vercel.app/).
-
-- **[Animease](https://github.com/rishabhgokhe/animease)**
-  : A Node package for easy animation implementation. | [View package](https://www.npmjs.com/package/animease)
 
 ##  More details about me... <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV0dW1sM3N1eTRvNDI2dmUzcWZyOGhob2tpMWMxYXV0MzA4d3FuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/48MKwjhtxB3NOedbNj/giphy.gif width=40px />
 
@@ -79,6 +52,7 @@ const rishabh = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -88,7 +62,9 @@ const rishabh = {
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 [![Postman](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
