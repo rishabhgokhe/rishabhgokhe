@@ -93,16 +93,4 @@ const rishabh = {
 
 I'm Rishabh Gokhe, a passionate full-stack developer and tech enthusiast. I'm always eager to learn new technologies and take on exciting challenges. My expertise includes JavaScript, TypeScript, React, Node.js, and more. When I'm not coding, I enjoy working on 3D modeling and UI design. Feel free to explore my projects.
 
-
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRmcHQwNnM5YTJycjQzbTF0M2NhOGl2ZHpya21uamRhajd4cTJhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width=40px /> Let's Collaborate!
-
-I'm always excited to work on innovative projects and collaborate with like-minded individuals. Here are some ways we can collaborate:
-
-- **Freelance Projects:** If you have a project that needs a developer, I'm open to freelance opportunities.
-- **Mentorship:** I'm happy to offer mentorship to aspiring developers, especially in areas like web development, tech, and iOS development.
-- **Open Source Contributions:** Contributions to my projects or collaborating on new open-source projects are always welcome.
-- **Brainstorming Sessions:** If you want to discuss tech ideas or need help with problem-solving, let's schedule a brainstorming session.
-
-Feel free to reach out if you're interested in any of these collaboration opportunities. Let's build something amazing together!
-
 **Thanks for visiting my profile! Don't forget to check out my repositories and leave a star if you find something interesting!**
