@@ -8,8 +8,6 @@
 
 ![Matrix SVG](./svg/matrix.svg)
 
-![MasterHead](./images/rishabh_readme_banner.jpg)
-
 ![](https://komarev.com/ghpvc/?username=rishabhgokhe&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-gokhe-22168b287/)
 [![LeetCode](https://img.shields.io/badge/-View%20LeetCode%20Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/rishabh_gokhe/)
@@ -24,22 +22,25 @@
 
 ```javascript
 const rishabh = {
-    pronouns: "He/Him",
-    code: ["Java", "JavaScript", "TypeScript", "Python", "Swift"],
-    askMeAbout: ["Full-Stack Development", "Android Development", "iOS Development", "Tech"],
-    technologies: {
-        frontend: ["React", "Next.js", "JavaScript", "HTML", "CSS", "SASS"],
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-        },
-        mobileApp: ["iOS Development", "React Native", "Firebase"],
-        devOps: [],
-        databases: ["MongoDB", "PostgreSQL"],
-    },
-    favorite: ["Java", "JavaScript", "TypeScript", "Swift"],
-    otherInterests: ["Machine Learning & AI", "Cyber Security", "UI/UX Design", "3D Rendering"],
-    currentFocus: "Exploring Blockchain, LLMs, and improving DSA skills",
-    funFact: "If debugging is the process of removing bugs, then programming must be the process of putting them in."
+  name: "Rishabh Gokhe",
+  role: "Full-Stack Engineer",
+  languages: ["Java", "TypeScript", "JavaScript", "Swift", "Python"],
+  expertise: {
+    frontend: ["React", "Next.js", "HTML", "CSS", "Sass"],
+    backend: ["Node.js", "Express", "Spring Boot"],
+    mobile: ["Swift (iOS)", "React Native"],
+    databases: ["PostgreSQL", "MongoDB"],
+    backendServices: ["Supabase", "Firebase"],
+  },
+  engineeringFocus: [
+    "Scalable system design",
+    "Performance optimization",
+    "Clean architecture",
+    "Data structures & algorithms",
+  ],
+  currentLearning: ["Smart Contracts", "LLMs", "Advanced DSA"],
+  interests: ["Cyber Security", "UI/UX systems", "3D rendering"],
+  mindset: "Write clean code. Ship real products.",
 };
 ```
 
@@ -93,6 +94,6 @@ const rishabh = {
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcyZDc2MXNnOXh2MGN1czIwcmt6OGg1M25zYzB2MHU4em42ZzRteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XH3quXr46rVryVYc2X/giphy.gif" width=40px /> About Me
 
-I'm Rishabh Gokhe, a passionate full-stack developer and tech enthusiast. I'm always eager to learn new technologies and take on exciting challenges. My expertise includes JavaScript, TypeScript, React, Node.js, and more. When I'm not coding, I enjoy working on 3D modeling and UI design. Feel free to explore my projects.
+I'm Rishabh Gokhe, a full-stack developer passionate about building scalable web and mobile applications. I primarily work with React-based applications and also develop indie iOS apps. Currently diving deep into emerging technologies like Blockchain and LLMs while actively sharpening my DSA skills. Beyond coding, I have a strong interest in UI/UX design and 3D modeling, which helps me build visually engaging and user-friendly products.
 
 **Thanks for visiting my profile! Don't forget to check out my repositories and leave a star if you find something interesting!**
