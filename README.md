@@ -6,6 +6,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=RISHABH%20GOKHE%20;COMPUTER%20SCIENCE%20STUDENT%20;SOFTWARE%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER;iOS%20APP%20DEVELOPER;PROGRAMMER%20;GRAPHIC%20DESIGNER&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" />
 </p>
 
+![Matrix SVG](./svg/matrix.svg)
+
 ![MasterHead](./images/rishabh_readme_banner.jpg)
 
 ![](https://komarev.com/ghpvc/?username=rishabhgokhe&label=Profile%20views&color=0e75b6&style=flat)
