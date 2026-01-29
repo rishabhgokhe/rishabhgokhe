@@ -77,13 +77,14 @@ const rishabh = {
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rishabh_gokhe?theme=dark&font=Noto%20Sans%20Mono&ext=contest)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhgokhe&layout=compact&theme=dark)
+
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3J0M2djbm9zcmZiczZzNmhxNDR6cnF3dXF4MDk4eTgxN3N3eG5jciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vx8UvEl6jTEnZX1w1E/giphy.gif" width=40px /> Quote <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hveW8ybTM0MWg1bnM3bWRscnlwYjcwaWk5azVmYmlvdm92dmp1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t4XOMsxdxOvd6dAu91/giphy.gif" width=40px />
 
 > "It's not a bug – it's an undocumented feature." – Anonymous
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhgokhe&layout=compact&theme=dark)
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
